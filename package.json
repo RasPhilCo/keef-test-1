@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "tslint": "^5.20.1"
+  },
+  "scripts": {
+    "posttest": "eslint . --ext .ts --config .eslintrc"
   }
 }

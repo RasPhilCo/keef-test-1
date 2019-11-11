@@ -4,7 +4,7 @@
     "@oclif/config": "^1.13.3"
   },
   "devDependencies": {
-    "tslint": "^5.20.1"
+    "eslint": "^6.6.0"
   },
   "scripts": {
     "posttest": "eslint . --ext .ts --config .eslintrc"

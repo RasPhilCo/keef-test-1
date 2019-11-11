@@ -1,3 +1,6 @@
 {
-  "name": "keef-test-1"
+  "name": "keef-test-1",
+  "dependencies": {
+    "eslint": "^6.6.0"
+  }
 }

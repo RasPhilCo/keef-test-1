@@ -1,6 +1,8 @@
 {
   "name": "keef-test-1",
   "dependencies": {
+    "@oclif/config": "^1.13.3",
     "eslint": "^6.6.0"
-  }
+  },
+  "devDependencies": {}
 }

@@ -1,1 +1,9 @@
-[object Object]
+{
+  "name": "keef-test-1",
+  "dependencies": {
+    "@oclif/config": "^1.13.3"
+  },
+  "devDependencies": {
+    "tslint": "^5.20.1"
+  }
+}

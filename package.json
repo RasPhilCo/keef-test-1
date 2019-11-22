@@ -1,8 +1,5 @@
 {
   "scripts": {
     "posttest": "eslint . --ext .ts --config .eslintrc"
-  },
-  "devDependencies": {
-    "eslint": "^6.6.0"
   }
 }
